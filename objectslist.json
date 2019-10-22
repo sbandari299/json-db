@@ -1,0 +1,12 @@
+[
+{
+"objName" : "Repair_Orders__c",
+"condition": "LastModifiedDate=Today"
+},
+
+{
+"objName" : "Wish_Lists__c",
+"condition": "LastModifiedDate=Today",
+}
+
+]
