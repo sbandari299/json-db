@@ -1,0 +1,38 @@
+[
+  {
+    "objName": "Apex_Exception_Log__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "Email_Queue__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "Merge_Request__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "Repair_Orders__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "Responsys_Campaign__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "Rewards_Certificates___c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "RFM_Affiliation__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "SMS_Queue__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "Wish_Lists__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  }
+]
