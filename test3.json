@@ -1,0 +1,10 @@
+[
+  {
+    "objName": "Repair_Orders__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  },
+  {
+    "objName": "Apex_Exception_Log__c",
+    "condition": "LastModifiedDate>2019-10-22T18:51:12.000+0000"
+  }
+]
