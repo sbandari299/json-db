@@ -1,0 +1,12 @@
+[
+{"condition": "LastModifiedDate=Today","objName" : "Repair_Orders__c"},
+{"condition": "LastModifiedDate=Today","objName" : "Wish_Lists__c"},
+{"condition": "LastModifiedDate=Today","objName" : "Apex_Exception_Log__c"},
+{"condition": "LastModifiedDate=Today","objName" : "Email_Queue__c"},
+{"condition": "LastModifiedDate=Today","objName" : "Merge_Request__c"},
+{"condition": "LastModifiedDate=Today","objName" : "Responsys_Campaign__c"},
+{"condition": "LastModifiedDate=Today","objName" : "Rewards_Certificates___c"},
+{"condition": "LastModifiedDate=Today","objName" : "RFM_Affiliation__c"},
+{"condition": "LastModifiedDate=Today","objName" : "RFM_Affiliation__c"},
+{"condition": "LastModifiedDate=Today","objName" : "SMS_Queue__c"}
+]
